@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.menu-content{
+    border: solid black 2px;
+    background-color: #999999;
+}
+
+.menu-title{
+    border: solid black 2px;
+    float: right;
+    clear: both;
+    text-align: center;
+}
